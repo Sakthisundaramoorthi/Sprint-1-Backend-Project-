@@ -1,0 +1,5 @@
+package com.tns.studentservice;
+
+public class StudentRepository {
+
+}
